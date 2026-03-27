@@ -1,6 +1,6 @@
 # Ignite Write‑up
 
-A beginner‑friendly **TryHackMe challenge focused on web exploitation, reverse shells, and Linux privilege escalation using the **Fuel CMS** vulnerability and **Polkit** misconfiguration.
+A beginner‑friendly **TryHackMe** challenge focused on web exploitation, reverse shells, and Linux privilege escalation using the **Fuel CMS** vulnerability and **Polkit** misconfiguration.
 
 Room: Ignite
 
